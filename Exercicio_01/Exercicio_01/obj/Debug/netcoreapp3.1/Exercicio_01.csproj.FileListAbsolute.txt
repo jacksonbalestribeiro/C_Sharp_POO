@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.exe
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.deps.json
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.runtimeconfig.json
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.dll
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.pdb
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.dll
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.pdb
+C:\Users\Jackson\Desktop\C# POO\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.genruntimeconfig.cache

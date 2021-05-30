@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\bin\Debug\netcoreapp3.1\estoqueProdutos.exe
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\bin\Debug\netcoreapp3.1\estoqueProdutos.deps.json
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\bin\Debug\netcoreapp3.1\estoqueProdutos.runtimeconfig.json
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\bin\Debug\netcoreapp3.1\estoqueProdutos.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\bin\Debug\netcoreapp3.1\estoqueProdutos.dll
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\bin\Debug\netcoreapp3.1\estoqueProdutos.pdb
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\obj\Debug\netcoreapp3.1\estoqueProdutos.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\obj\Debug\netcoreapp3.1\estoqueProdutos.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\obj\Debug\netcoreapp3.1\estoqueProdutos.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\obj\Debug\netcoreapp3.1\estoqueProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\obj\Debug\netcoreapp3.1\estoqueProdutos.dll
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\obj\Debug\netcoreapp3.1\estoqueProdutos.pdb
+C:\Users\Jackson\Desktop\C# POO\estoqueProdutos\estoqueProdutos\obj\Debug\netcoreapp3.1\estoqueProdutos.genruntimeconfig.cache

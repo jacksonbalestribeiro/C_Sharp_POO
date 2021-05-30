@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\bin\Debug\netcoreapp3.1\calculandoTriangulos.exe
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\bin\Debug\netcoreapp3.1\calculandoTriangulos.deps.json
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\bin\Debug\netcoreapp3.1\calculandoTriangulos.runtimeconfig.json
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\bin\Debug\netcoreapp3.1\calculandoTriangulos.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\bin\Debug\netcoreapp3.1\calculandoTriangulos.dll
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\bin\Debug\netcoreapp3.1\calculandoTriangulos.pdb
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\obj\Debug\netcoreapp3.1\calculandoTriangulos.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\obj\Debug\netcoreapp3.1\calculandoTriangulos.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\obj\Debug\netcoreapp3.1\calculandoTriangulos.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\obj\Debug\netcoreapp3.1\calculandoTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\obj\Debug\netcoreapp3.1\calculandoTriangulos.dll
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\obj\Debug\netcoreapp3.1\calculandoTriangulos.pdb
+C:\Users\Jackson\Desktop\C# POO\calculandoTriangulos\calculandoTriangulos\obj\Debug\netcoreapp3.1\calculandoTriangulos.genruntimeconfig.cache
