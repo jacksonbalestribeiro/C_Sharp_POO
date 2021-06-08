@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\bin\Debug\netcoreapp3.1\CriandoStructs.exe
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\bin\Debug\netcoreapp3.1\CriandoStructs.deps.json
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\bin\Debug\netcoreapp3.1\CriandoStructs.runtimeconfig.json
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\bin\Debug\netcoreapp3.1\CriandoStructs.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\bin\Debug\netcoreapp3.1\CriandoStructs.dll
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\bin\Debug\netcoreapp3.1\CriandoStructs.pdb
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\obj\Debug\netcoreapp3.1\CriandoStructs.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\obj\Debug\netcoreapp3.1\CriandoStructs.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\obj\Debug\netcoreapp3.1\CriandoStructs.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\obj\Debug\netcoreapp3.1\CriandoStructs.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\obj\Debug\netcoreapp3.1\CriandoStructs.dll
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\obj\Debug\netcoreapp3.1\CriandoStructs.pdb
+C:\Users\Jackson\Desktop\C# POO\CriandoStructs\CriandoStructs\obj\Debug\netcoreapp3.1\CriandoStructs.genruntimeconfig.cache

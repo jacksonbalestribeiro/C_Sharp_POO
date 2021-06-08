@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\bin\Debug\netcoreapp3.1\Revicao_Vetores.exe
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\bin\Debug\netcoreapp3.1\Revicao_Vetores.deps.json
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\bin\Debug\netcoreapp3.1\Revicao_Vetores.runtimeconfig.json
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\bin\Debug\netcoreapp3.1\Revicao_Vetores.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\bin\Debug\netcoreapp3.1\Revicao_Vetores.dll
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\bin\Debug\netcoreapp3.1\Revicao_Vetores.pdb
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\obj\Debug\netcoreapp3.1\Revicao_Vetores.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\obj\Debug\netcoreapp3.1\Revicao_Vetores.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\obj\Debug\netcoreapp3.1\Revicao_Vetores.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\obj\Debug\netcoreapp3.1\Revicao_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\obj\Debug\netcoreapp3.1\Revicao_Vetores.dll
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\obj\Debug\netcoreapp3.1\Revicao_Vetores.pdb
+C:\Users\Jackson\Desktop\C# POO\Revicao_Vetores\Revicao_Vetores\obj\Debug\netcoreapp3.1\Revicao_Vetores.genruntimeconfig.cache
