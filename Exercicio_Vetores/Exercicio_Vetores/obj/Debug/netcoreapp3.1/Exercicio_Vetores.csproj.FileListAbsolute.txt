@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.exe
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.deps.json
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.runtimeconfig.json
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.dll
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.pdb
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.dll
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.pdb
+C:\Users\Jackson\Desktop\C# POO\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.genruntimeconfig.cache

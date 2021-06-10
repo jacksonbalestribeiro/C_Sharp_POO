@@ -1,0 +1,12 @@
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\bin\Debug\netcoreapp3.1\Vetor_Parametros.exe
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\bin\Debug\netcoreapp3.1\Vetor_Parametros.deps.json
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\bin\Debug\netcoreapp3.1\Vetor_Parametros.runtimeconfig.json
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\bin\Debug\netcoreapp3.1\Vetor_Parametros.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\bin\Debug\netcoreapp3.1\Vetor_Parametros.dll
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\bin\Debug\netcoreapp3.1\Vetor_Parametros.pdb
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\obj\Debug\netcoreapp3.1\Vetor_Parametros.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\obj\Debug\netcoreapp3.1\Vetor_Parametros.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\obj\Debug\netcoreapp3.1\Vetor_Parametros.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\obj\Debug\netcoreapp3.1\Vetor_Parametros.dll
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\obj\Debug\netcoreapp3.1\Vetor_Parametros.pdb
+C:\Users\Jackson\Desktop\C# POO\Vetor_Parametros\Vetor_Parametros\obj\Debug\netcoreapp3.1\Vetor_Parametros.genruntimeconfig.cache
